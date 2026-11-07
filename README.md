@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="copertina_github_giulia.png" alt="Giulia Genoni - GitHub banner" width="100%">
 
 <!--
 **GenoniGiulia/GenoniGiulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
