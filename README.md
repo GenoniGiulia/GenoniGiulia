@@ -1,4 +1,4 @@
-<img src="copertina_github_giulia.png" alt="Giulia Genoni - GitHub banner" width="100%">
+
 
 ### Academic Profiles
 
